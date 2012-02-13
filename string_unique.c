@@ -1,3 +1,6 @@
+/* @Vineet Garg
+ * 13 Feb, 2010
+ */
 #include<stdio.h>
 #include<stdlib.h>
 
